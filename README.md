@@ -16,23 +16,11 @@ Secondary font: [Satisfy](https://fonts.google.com/specimen/Satisfy)
 
 ```
 <p> </p>
-<style>
-.d-flex.justify-content-end h2 {
-  color: #149A95;
-  font-family: "Philosopher", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
-#content .row .row .col h2,
-#content .row .row .col h3 {
-  font-family: "Satisfy", cursive;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 1.75rem;
-}
-#content .row .row .col p {
-  font-size: 1.15rem;
-}
-</style>
+<link href="https://www2.gidsinheling.nl/cursus.css" rel="stylesheet">
+```
+
+Deze bevat al de Google fonts library, dus deze heb je niet meer nodig:
+
+```
 <link href="https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&amp;family=Satisfy&amp;display=swap" rel="stylesheet">
 ```
