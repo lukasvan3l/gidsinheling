@@ -18,15 +18,15 @@ Secondary font: [Satisfy](https://fonts.google.com/specimen/Satisfy)
 <p> </p>
 <style>
 .d-flex.justify-content-end h2 {
-  font-family: "Satisfy", cursive;
-  font-weight: 400;
-  font-style: normal;
   color: #149A95;
+  font-family: "Philosopher", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 #content .row .row .col h2,
 #content .row .row .col h3 {
-  font-family: "Philosopher", sans-serif;
-  font-weight: 700;
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
   font-style: normal;
   font-size: 1.25rem;
 }
