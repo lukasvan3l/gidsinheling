@@ -28,7 +28,10 @@ Secondary font: [Satisfy](https://fonts.google.com/specimen/Satisfy)
   font-family: "Satisfy", cursive;
   font-weight: 400;
   font-style: normal;
-  font-size: 1.25rem;
+  font-size: 1.75rem;
+}
+#content .row .row .col p {
+  font-size: 1.15rem;
 }
 </style>
 <link href="https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&amp;family=Satisfy&amp;display=swap" rel="stylesheet">
